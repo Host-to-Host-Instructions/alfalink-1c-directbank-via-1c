@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Settings creationDate="2022-10-28T09:20:23.367Z" formatVersion="2.2.2" id="996f73fc-7fc3-449a-a5ed-4c38ed0e0ada" xmlns="http://directbank.1c.ru/XMLSchema">
-	<Sender bic="044525593" name="АО &quot;АЛЬФА-БАНК&quot;"/>
-	<Recipient id="40702810701300009144" inn="0329156629" kpp="043360081" name="Общество с ограниченной ответственностью &quot;Тест Директ Банк&quot;"/>
-	<Data>
-		<CustomerID>40702810701300009144</CustomerID>
-		<BankServerAddress>https://alfa-link-int.alfabank.ru/API/v1/directbank</BankServerAddress>
-		<FormatVersion>2.2.2</FormatVersion>
-		<Encoding>UTF-8</Encoding>
-		<Compress>false</Compress>
-		<Logon>
-			<Login>
-				<User>directBank</User>
-			</Login>
-		</Logon>
-		<CryptoParameters>
-			<CSPName>Crypto-Pro GOST R 34.10-2012 Cryptographic Service Provider</CSPName>
-			<CSPType>80</CSPType>
-			<SignAlgorithm>GR 34.10-2012 256</SignAlgorithm>
-			<HashAlgorithm>GR 34.11-2012 256</HashAlgorithm>
-			<Encrypted>
-				<EncryptAlgorithm>GOST 28147-89</EncryptAlgorithm>
-			</Encrypted>
-			<CustomerSignature>
-				<GroupSignatures numberGroup="1">
-					<Certificate>MIIDFTCCAsSgAwIBAgITEgBfvlfxu+e7N8lHkQABAF++VzAIBgYqhQMCAgMwfzEjMCEGCSqGSIb3DQEJARYUc3VwcG9ydEBjcnlwdG9wcm8ucnUxCzAJBgNVBAYTAlJVMQ8wDQYDVQQHEwZNb3Njb3cxFzAVBgNVBAoTDkNSWVBUTy1QUk8gTExDMSEwHwYDVQQDExhDUllQVE8tUFJPIFRlc3QgQ2VudGVyIDIwHhcNMjIwOTEzMTAzNjU5WhcNMjIxMjEzMTA0NjU5WjAbMRkwFwYDVQQDDBB0ZXN0X2RiXzIwMjItNF8xMGYwHwYIKoUDBwEBAQEwEwYHKoUDAgIkAAYIKoUDBwEBAgIDQwAEQKsNyxjCQF6gaoGnFPscqPQ9xF4RFNwqjBQ4H5OPkvw3T4clo9TAs0XrsUfmWeCdiG38bkpnlIBa6E0n58RXo1ujggF2MIIBcjAOBgNVHQ8BAf8EBAMCBPAwEwYDVR0lBAwwCgYIKwYBBQUHAwIwHQYDVR0OBBYEFAe3+c0b5gvNWB6gotbLWO0i8ovOMB8GA1UdIwQYMBaAFE6DPhRp7+xdepUrXxH+NzIWSVUrMFwGA1UdHwRVMFMwUaBPoE2GS2h0dHA6Ly90ZXN0Y2EuY3J5cHRvcHJvLnJ1L0NlcnRFbnJvbGwvQ1JZUFRPLVBSTyUyMFRlc3QlMjBDZW50ZXIlMjAyKDEpLmNybDCBrAYIKwYBBQUHAQEEgZ8wgZwwZAYIKwYBBQUHMAKGWGh0dHA6Ly90ZXN0Y2EuY3J5cHRvcHJvLnJ1L0NlcnRFbnJvbGwvdGVzdC1jYS0yMDE0X0NSWVBUTy1QUk8lMjBUZXN0JTIwQ2VudGVyJTIwMigxKS5jcnQwNAYIKwYBBQUHMAGGKGh0dHA6Ly90ZXN0Y2EuY3J5cHRvcHJvLnJ1L29jc3Avb2NzcC5zcmYwCAYGKoUDAgIDA0EAIocphNvEkxv7hAVrA0HDph/Ug5GrerIpm1rB7ulveiGqCCO+N2XHx7E6Fbl9aNZRoPniN70PtU4+fCpaCCeb8w==</Certificate>
-				</GroupSignatures>
-			</CustomerSignature>
-		</CryptoParameters>
-		<Document docKind="01"/>
-		<Document docKind="02"/>
-		<Document docKind="03"/>
-		<Document docKind="05"/>
-		<Document docKind="06"/>
-		<Document docKind="10">
-			<Signed>
-				<RuleSignatures>(1)</RuleSignatures>
-			</Signed>
-		</Document>
-		<Document docKind="14"/>
-		<Document docKind="15"/>
-		<Document docKind="19"/>
-		<Document docKind="20"/>
-		<Document docKind="21"/>
-		<Document docKind="22"/>
-		<ReceiptStatement>
-			<Login>AS0329156629</Login>
-			<Instructions>Пароль приходит в смс на номер, указанный в заявлении</Instructions>
-		</ReceiptStatement>
-	</Data>
+<Settings creationDate="2022-12-05T10:49:19.424Z" formatVersion="2.2.2" id="5b481a65-a835-4b49-a0c6-633ea2fc091c" xmlns="http://directbank.1c.ru/XMLSchema">
+  <Sender bic="044525593" name="АО &quot;АЛЬФА-БАНК&quot;"/>
+  <Recipient id="40702810701300009144" inn="0329156629" kpp="043360081" name="Общество с ограниченной ответственностью &quot;Тест Директ Банк&quot;"/>
+  <Data>
+    <CustomerID>40702810701300009144</CustomerID>
+    <BankServerAddress>https://alfa-link-int.alfabank.ru/API/v1/directbank</BankServerAddress>
+    <FormatVersion>2.2.2</FormatVersion>
+    <Encoding>UTF-8</Encoding>
+    <Compress>false</Compress>
+    <Logon>
+      <Login>
+        <User>directBank</User>
+      </Login>
+    </Logon>
+    <CryptoParameters>
+      <CSPName>Crypto-Pro GOST R 34.10-2012 Cryptographic Service Provider</CSPName>
+      <CSPType>80</CSPType>
+      <SignAlgorithm>GR 34.10-2012 256</SignAlgorithm>
+      <HashAlgorithm>GR 34.11-2012 256</HashAlgorithm>
+      <Encrypted>
+        <EncryptAlgorithm>GOST 28147-89</EncryptAlgorithm>
+      </Encrypted>
+      <CustomerSignature>
+        <GroupSignatures numberGroup="1">
+          <Certificate>MIIDDDCCArugAwIBAgITEgBghkKZirrdvteswgABAGCGQjAIBgYqhQMCAgMwfzEjMCEGCSqGSIb3DQEJARYUc3VwcG9ydEBjcnlwdG9wcm8ucnUxCzAJBgNVBAYTAlJVMQ8wDQYDVQQHEwZNb3Njb3cxFzAVBgNVBAoTDkNSWVBUTy1QUk8gTExDMSEwHwYDVQQDExhDUllQVE8tUFJPIFRlc3QgQ2VudGVyIDIwHhcNMjIxMjAyMjExMDMwWhcNMjMwMzAyMjEyMDMwWjASMRAwDgYDVQQDDAdld2ZlZXZyMGYwHwYIKoUDBwEBAQEwEwYHKoUDAgIkAAYIKoUDBwEBAgIDQwAEQCtwqhRL3S02fubt5dVzk6BrfNt7z6fx0n/PqUhzbXHXkcfg3px5ylHt+ck2chgyItCrGdgHg2D8tNsliNfduX2jggF2MIIBcjAOBgNVHQ8BAf8EBAMCBPAwEwYDVR0lBAwwCgYIKwYBBQUHAwIwHQYDVR0OBBYEFIDQ9k+P65DKLpN6wFtFn7Jz0OogMB8GA1UdIwQYMBaAFE6DPhRp7+xdepUrXxH+NzIWSVUrMFwGA1UdHwRVMFMwUaBPoE2GS2h0dHA6Ly90ZXN0Y2EuY3J5cHRvcHJvLnJ1L0NlcnRFbnJvbGwvQ1JZUFRPLVBSTyUyMFRlc3QlMjBDZW50ZXIlMjAyKDEpLmNybDCBrAYIKwYBBQUHAQEEgZ8wgZwwZAYIKwYBBQUHMAKGWGh0dHA6Ly90ZXN0Y2EuY3J5cHRvcHJvLnJ1L0NlcnRFbnJvbGwvdGVzdC1jYS0yMDE0X0NSWVBUTy1QUk8lMjBUZXN0JTIwQ2VudGVyJTIwMigxKS5jcnQwNAYIKwYBBQUHMAGGKGh0dHA6Ly90ZXN0Y2EuY3J5cHRvcHJvLnJ1L29jc3Avb2NzcC5zcmYwCAYGKoUDAgIDA0EA1BbbIqlW5gvQX2fiLGwzU7kxE5YWlLl8+ik8KcBieDmoQ1FBi4BSEt5NXXOMaBXXJ+XxPfriwMofxAHC7qQd+A==</Certificate>
+        </GroupSignatures>
+      </CustomerSignature>
+    </CryptoParameters>
+    <Document docKind="01"/>
+    <Document docKind="02"/>
+    <Document docKind="03"/>
+    <Document docKind="05"/>
+    <Document docKind="06"/>
+    <Document docKind="10">
+      <Signed>
+        <RuleSignatures>(1)</RuleSignatures>
+      </Signed>
+    </Document>
+    <Document docKind="14"/>
+    <Document docKind="15"/>
+    <Document docKind="19"/>
+    <Document docKind="20"/>
+    <Document docKind="21"/>
+    <Document docKind="22"/>
+    <ReceiptStatement>
+      <Login>AS0329156629</Login>
+      <Instructions>Пароль приходит в смс на номер, указанный в заявлении</Instructions>
+    </ReceiptStatement>
+  </Data>
 </Settings>
