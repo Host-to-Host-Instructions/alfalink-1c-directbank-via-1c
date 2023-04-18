@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Settings creationDate="2023-04-18T13:09:06.720+03:00" formatVersion="2.2.2" id="07e20e61-99d1-4282-bcd6-d18eeec2d2cb" xmlns="http://directbank.1c.ru/XMLSchema">
+  <Sender bic="044525593" name="АО &quot;АЛЬФА-БАНК&quot;"/>
+  <Recipient id="40702810100000001111" inn="0551666943" kpp="047364514" name="Общество с ограниченной ответственность &quot;МАНИ&quot;"/>
+  <Data>
+    <CustomerID>40702810100000001111</CustomerID>
+    <BankServerAddress>https://alfa-link-int.alfabank.ru/API/v1/directbank</BankServerAddress>
+    <FormatVersion>2.2.2</FormatVersion>
+    <Encoding>UTF-8</Encoding>
+    <Compress>false</Compress>
+    <Logon>
+      <Login>
+        <User>azon_kek</User>
+      </Login>
+    </Logon>
+    <Document docKind="01"/>
+    <Document docKind="02"/>
+    <Document docKind="03"/>
+    <Document docKind="05"/>
+    <Document docKind="06"/>
+    <Document docKind="10"/>
+    <Document docKind="14"/>
+    <Document docKind="15"/>
+    <Document docKind="19"/>
+    <Document docKind="20"/>
+    <Document docKind="21"/>
+    <Document docKind="22"/>
+  </Data>
+</Settings>
