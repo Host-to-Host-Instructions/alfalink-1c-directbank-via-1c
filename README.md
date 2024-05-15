@@ -383,7 +383,7 @@
 - Создать тикет на [странице документации](https://github.com/Host-to-Host-Instructions/alfalink-1c-directbank-via-1c/issues). Для этого нужно нажать на кнопку New issue, указать в заголовке краткое описание проблемы, а потом описать проблему полностью, при необходимости, приложив скриншоты.
 
 - Отправить свой вопрос по почте на адрес:
-    - AIShitik@alfabank.ru (Шитик Артём) 
+    - EBoldina@alfabank.ru (Екатерина Болдина) 
     - в копию (обязательно):
         - AKopyltsova@alfabank.ru (Анна Копыльцова)
         - alfa-link@alfabank.ru 
