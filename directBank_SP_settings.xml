@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Settings xmlns="http://directbank.1c.ru/XMLSchema" id="6b67212a-9aa0-48a4-8f22-d238a9aaf7fc" formatVersion="2.2.2" creationDate="2023-11-16T16:41:53.564+04:00">
     <Sender bic="044525593" name="АО &quot;АЛЬФА-БАНК&quot;"/>
-    <Recipient id="40702810100000001111" name="Общество с ограниченной ответственностью &quot;МАНИ&quot;" inn="0551666943" kpp="047364514"/>
+    <Recipient id="40702810300000003333" name="Общество с ограниченной ответственностью &quot;МАНИ&quot;" inn="0551666943" kpp="047364514"/>
     <Data>
-        <CustomerID>40702810100000001111</CustomerID>
+        <CustomerID>40702810300000003333</CustomerID>
         <BankServerAddress>https://alfa-link-int.alfabank.ru/API/v1/directbank</BankServerAddress>
         <FormatVersion>2.2.2</FormatVersion>
         <Encoding>UTF-8</Encoding>
