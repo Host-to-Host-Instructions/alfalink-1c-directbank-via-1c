@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Settings xmlns="http://directbank.1c.ru/XMLSchema" id="6b67212a-9aa0-48a4-8f22-d238a9aaf7fc" formatVersion="2.2.2" creationDate="2023-11-16T16:41:53.564+04:00">
+<Settings xmlns="http://directbank.1c.ru/XMLSchema" id="6b67212a-9aa0-48a4-8f22-d238a9aaf7fc" formatVersion="2.2.2" creationDate="2024-09-16T10:11:53.564+04:00">
     <Sender bic="044525593" name="АО &quot;АЛЬФА-БАНК&quot;"/>
     <Recipient id="40702810300000003333" name="Общество с ограниченной ответственностью &quot;МАНИ&quot;" inn="0551666943" kpp="047364514"/>
     <Data>
