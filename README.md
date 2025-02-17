@@ -383,5 +383,5 @@
 - Отправить свой вопрос по почте на адрес: 
     - ASKhramtsova@alfabank.ru (Анастасия Храмцова) 
     - в копию (обязательно):
-        - AKopyltsova@alfabank.ru (Анна Копыльцова)
+        - ASedov@alfabank.ru (Антон Седов)
         - alfa-link@alfabank.ru 
