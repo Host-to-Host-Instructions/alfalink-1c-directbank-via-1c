@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Settings creationDate="2025-12-24T10:52:03.179+03:00" formatVersion="2.2.2" id="be1adc8d-c753-4827-a47f-5232ebeeecce" xmlns="http://directbank.1c.ru/XMLSchema">
+<Settings creationDate="2026-02-06T14:14:59.045+03:00" formatVersion="2.2.2" id="f6aa3f61-eb43-47c5-be13-ae147524a3d2" xmlns="http://directbank.1c.ru/XMLSchema">
 	<Sender bic="044525593" name="АО &quot;АЛЬФА-БАНК&quot;"/>
 	<Recipient id="40702810701300009144" inn="0329156629" kpp="043360081" name="Общество с ограниченной ответственностью &quot;Тест Директ Банк&quot;"/>
 	<Data>
@@ -39,17 +39,9 @@
 		</Document>
 		<Document docKind="14"/>
 		<Document docKind="15"/>
-		<Document docKind="19">
-			<Signed>
-				<RuleSignatures>(1)</RuleSignatures>
-			</Signed>
-		</Document>
+		<Document docKind="19"/>
 		<Document docKind="20"/>
-		<Document docKind="21">
-			<Signed>
-				<RuleSignatures>(1)</RuleSignatures>
-			</Signed>
-		</Document>
+		<Document docKind="21"/>
 		<Document docKind="22"/>
 		<ReceiptStatement>
 			<Login>AS0329156629</Login>
